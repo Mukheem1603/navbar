@@ -8,10 +8,10 @@
 /* SLIDER */
 
 .CSSgal .slider {
-    height: 282px;
+    height: 283px;
     white-space: nowrap;
     font-size: 0;
-    transition: 0.8s;
+    transition: 0.78s;
     margin: 7px;
     background-color: #ccc;
 }
